@@ -26,6 +26,7 @@ nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    padding: 50px 20px;
 }
 
 nav ul li {
@@ -153,3 +154,4 @@ footer {
     text-align: center;
     padding: 20px;
 }
+
